@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajput1994Ritesh&label=Profile%20views&color=0e75b6&style=flat" alt="Rajput1994Ritesh" /> </p>
 
-- 🌱 I’m currently learning **MS-Excel, Power BI, SQL, python, Statistics and etc.**
+- 🌱 **“Proficient in data cleaning, visualization (Power BI),Excel, SQL, Python, statistical analysis, critical thinking, communication, and problem-solving.” etc.**
 
 - 📫 How to reach me **riteshrajput422@gmail.com**
 
